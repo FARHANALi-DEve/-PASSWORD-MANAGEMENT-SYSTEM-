@@ -1,1 +1,0 @@
-A feature-rich full-stack password manager web application engineered with the MERN stack (React.js, Express.js, Node.js, MongoDB). Designed with an intuitive React user interface and robust backend architecture, it ensures maximum data security with advanced end-to-end encryption and decryption of stored credentials
